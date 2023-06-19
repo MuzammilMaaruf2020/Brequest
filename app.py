@@ -15,8 +15,13 @@ Works = [{
   {'id' : 3,
   'category': 'Masonry works'
   
-}
+},
 
+   
+  {'id' : 4,
+  'category': 'General works'
+  
+}       
   
 ]
 
